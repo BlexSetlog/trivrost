@@ -14,6 +14,7 @@ require (
 	github.com/mattn/go-colorable v0.1.0 // indirect
 	github.com/mattn/go-ieproxy v0.0.0-20190805055040-f9202b1cfdeb
 	github.com/mattn/go-isatty v0.0.4 // indirect
+	github.com/setlog/trivrost/builder v0.0.0-00010101000000-000000000000 // indirect
 	github.com/shirou/gopsutil v0.0.0-20190427031343-fa9845945e5b
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
@@ -26,3 +27,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/setlog/trivrost/builder => ./builder

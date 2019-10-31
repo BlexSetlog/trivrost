@@ -10,6 +10,8 @@ release_files/
 hasher/out/
 bin/
 
+/builder/builder
+
 /launcher
 /launcher.app
 /launcher.exe
