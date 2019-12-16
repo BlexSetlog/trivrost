@@ -11,6 +11,7 @@ require (
 	github.com/gofrs/flock v0.7.1
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
+	github.com/magefile/mage v1.9.0
 	github.com/mattn/go-colorable v0.1.0 // indirect
 	github.com/mattn/go-ieproxy v0.0.0-20190805055040-f9202b1cfdeb
 	github.com/mattn/go-isatty v0.0.4 // indirect
