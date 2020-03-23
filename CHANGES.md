@@ -6,6 +6,7 @@
 * Update some dependencies:
   * gopsutils: v2.19.4 -> v2.20.3
 * Do not hide the download speed label, even if the speed is zero.
+* The download-speed label now shows a 3 second average.
 
 ## 1.4.4 (2020-01-17)
 ### Changes
