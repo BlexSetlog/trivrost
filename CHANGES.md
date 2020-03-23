@@ -3,6 +3,7 @@
 ## 1.4.5 (TBD)
 ### Changes
 * Shorter log-output for proxy detection. Reduces size of the log output by 5–15%.
+* trivrost will log the progress of downloads if the connection was interrupted for any reason.
 
 ## 1.4.4 (2020-01-17)
 ### Changes
